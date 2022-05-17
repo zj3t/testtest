@@ -8,3 +8,7 @@
 <mimarket://browse?url=file://manual-upgrade.html?manualUpgradeInfo=&title=attack>
 
 <https://lynmp.com>
+
+
+mimarket://browse?title=rId&url=file://topic-detail.html?loadingViewTimeout=10000000
+
